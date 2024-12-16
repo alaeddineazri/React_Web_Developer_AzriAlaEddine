@@ -13,7 +13,7 @@ Follow the steps below to clone, install dependencies, and run the project local
 Download the project to your local machine using Git:
 
 ```bash
-(https://github.com/alaeddineazri/React_Web_Developer_AzriAlaEddine.git)
+https://github.com/alaeddineazri/React_Web_Developer_AzriAlaEddine.git
 cd product-app
 ```
 
